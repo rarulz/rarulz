@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rarulz
+- 👋 Hi, I’m @Rahil
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on special projects that involve sports analytics
